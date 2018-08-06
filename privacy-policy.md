@@ -1,11 +1,11 @@
 # Règles de confidentialité pour l’application "Egbe"
 
 La présente politique de confidentialité s’applique aux utilisateurs des appareils Android et iOS. 
-En naviguant sur l’application "Egbe" [sous Android](https://play.google.com/store/apps/details?id=tg.egbe.app) ou sous [iOS](https://itunes.apple.com/us/app/egbe/id1421107241).
+En naviguant sur l’application "Egbe" sous [Android](https://play.google.com/store/apps/details?id=tg.egbe.app) ou sous [iOS](https://itunes.apple.com/us/app/egbe/id1421107241), vous signifiez votre accord sur notre politique de confidentialité.
+
 Les informations que nous demandons nous permettent d’améliorer nos 
 services, afin de mieux répondre à vos attentes, et de rendre l’application plus 
 performante et pertinente.
-En utilisant l'application, vous signifiez votre accord sur notre politique de confidentialité.
 
 ## Partage des données
 Aucune donnée ou information privée n’est communiquée ni partagée par l'application Egbe.
