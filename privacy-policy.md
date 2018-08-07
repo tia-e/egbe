@@ -24,5 +24,5 @@ Ces règles s’appliquent à tous les services proposés par l’application An
 
 
 ## Modifications
-Les présentes Règles de confidentialité peuvent être amenées à évoluer. Le cas échéant, nous publierons toute modification sur cette page, afin que vous soyez informés de telles évolutions.
+Les présentes Règles de confidentialité peuvent être amenées à évoluer. Le cas échéant, nous publierons toute modification sur cette page, afin que vous soyez informé.e.s de telles évolutions.
 
