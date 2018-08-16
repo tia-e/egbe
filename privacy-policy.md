@@ -29,6 +29,12 @@ Les présentes Règles de confidentialité peuvent être amenées à évoluer. L
 
 
 ## Termes
-Toutes les images sont de moi sauf si 
-### Licences des images utilisées
+Les logos, visuels et marques présents sur cette application sont ma propriété sauf mentions contraires.
+
+### Mentions des images utilisées
 - <a href='https://www.freepik.com/free-vector/smartphone-silhouette-collection_841743.htm'>Designed by Freepik</a>
+- <a href="https://www.freepik.com/free-vector/hand-drawn-business-icons-collection_1091815.htm">Designed by Freepik</a>
+- <a href="https://www.freepik.com/free-vector/back-to-school-icons-set_798021.htm">Designed by Freepik</a>
+- <a href="https://www.freepik.com/free-vector/set-of-hand-drawn-icons_979925.htm">Designed by Freepik</a>
+- <a href='https://www.freepik.com/free-vector/smartphone-silhouette-collection_841743.htm'>Designed by Freepik</a>
+- <a href='https://www.freepik.com/free-vector/hand-drawn-languages-concept_2555850.htm'>Designed by Freepik</a>
